@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>第一篇博客</title>
+      <link href="posts/e3e08109.html"/>
+      <url>posts/e3e08109.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="0x001"><a href="#0x001" class="headerlink" title="0x001"></a>0x001</h2><hr><p><img src="https://cdn.jsdelivr.net/gh/zqf888888/imgbed/4.jpg" alt="演示Demo"></p><h2 id="0x002-简单介绍"><a href="#0x002-简单介绍" class="headerlink" title="0x002 简单介绍"></a>0x002 简单介绍</h2><hr><p>人不应该是插在花瓶里供人观赏的静物，而是蔓延在草原上随风起舞的韵律，生命不是安排，而是追求，人的意义也许永远没有答案，但也要尽情感受这种没有答案的人生–伍尔芙。<br>有时候记忆这东西真的很难捉摸，偶尔会想起一些仅仅见过几面甚至擦肩而过的人，却想不起初中里坐最后一排的人是什么模样。别把生活想的太难，感恩自己还活在这人世间。生活没有答案，生活不需要答案。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 博客篇 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 文学 </tag>
+            
+            <tag> 小说 </tag>
+            
+            <tag> 吃饭 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>阿里云服务器部署Hexo博客</title>
       <link href="posts/19d2a4e6.html"/>
       <url>posts/19d2a4e6.html</url>
