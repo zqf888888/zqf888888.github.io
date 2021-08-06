@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>article title</title>
+      <link href="posts/a6f5b56e.html"/>
+      <url>posts/a6f5b56e.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="posts/4a17b156.html"/>
       <url>posts/4a17b156.html</url>
